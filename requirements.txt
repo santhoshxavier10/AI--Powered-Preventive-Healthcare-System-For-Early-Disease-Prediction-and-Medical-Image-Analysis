@@ -1,0 +1,24 @@
+# --- Web & Environment ---
+Flask
+python-dotenv
+werkzeug
+
+# --- Data Processing & Images ---
+numpy
+Pillow
+joblib
+
+# --- Google AI ---
+google-genai
+
+# --- PyTorch Models ---
+torch
+torchvision
+
+# --- The Legacy ML Saviors ---
+# Modern TensorFlow with the legacy Keras adapter for your .h5 models
+tensorflow
+tf_keras
+
+# Pinned to v1.0.2 specifically to unpack your old .pkl models
+scikit-learn==1.0.2

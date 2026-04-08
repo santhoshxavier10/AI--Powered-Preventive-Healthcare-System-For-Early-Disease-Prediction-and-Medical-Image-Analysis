@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+HealthCare_New/
+PHS/
+env/
+bin/
+lib/
+include/
+
+# Environment Variables / Secrets
+.env
+GOOGLE_API_KEY
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
